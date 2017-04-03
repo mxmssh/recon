@@ -1,5 +1,5 @@
 # REcon
 Supporting materials for REcon conference
 
-#drltrace
+# drltrace
 https://github.com/DynamoRIO/drmemory/tree/master/drltrace
